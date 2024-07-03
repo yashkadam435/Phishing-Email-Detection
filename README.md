@@ -12,7 +12,7 @@ This project aims to detect phishing emails using machine learning and deep lear
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/advanced-phishing-email-detection.git
+git clone https://github.com/yashkadam435/Phishing-Email-Detection.git
 cd Phishing-Email-Detection
 ```
 
